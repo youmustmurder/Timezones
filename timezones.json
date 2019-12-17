@@ -1,0 +1,1497 @@
+[
+   {
+      "offset":"-11:00",
+      "text":"(UTC-11:00) Алофи",
+      "value":"Pacific/Niue"
+   },
+   {
+      "offset":"-11:00",
+      "text":"(UTC-11:00) Паго-Паго",
+      "value":"Pacific/Samoa"
+   },
+   {
+      "offset":"-10:00",
+      "text":"(UTC-10:00) Гонолулу, Хило, Милилани",
+      "value":"Pacific/Honolulu"
+   },
+   {
+      "offset":"-10:00",
+      "text":"(UTC-10:00) Папеэте, Хуахине, Маупити",
+      "value":"Pacific/Tahiti"
+   },
+   {
+      "offset":"-10:00",
+      "text":"(UTC-10:00) Аваруа, Аитутаки",
+      "value":"Pacific/Rarotonga"
+   },
+   {
+      "offset":"-09:30",
+      "text":"(UTC-09:30) Нуку Хива",
+      "value":"Pacific/Marquesas"
+   },
+   {
+      "offset":"-08:00",
+      "text":"(UTC-08:00) Анкоридж, Фэрбанкс, Ситка",
+      "value":"America/Anchorage"
+   },
+   {
+      "offset":"-08:00",
+      "text":"(UTC-08:00) Джуно, Кетчикан",
+      "value":"America/Juneau"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Доусон",
+      "value":"America/Dawson"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Ванкувер, Суррей, Бернаби",
+      "value":"America/Vancouver"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Финикс, Тусон, Меса",
+      "value":"America/Phoenix"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Эрмосильо, Сьюдад-Обрегон, Ногалес",
+      "value":"America/Hermosillo"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Уайтхорс",
+      "value":"America/Whitehorse"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Тихуана, Мехикали, Энсенада",
+      "value":"America/Tijuana"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Форт-Сент-Джон, Кранбрук, Досон-Крик",
+      "value":"America/Dawson_Creek"
+   },
+   {
+      "offset":"-07:00",
+      "text":"(UTC-07:00) Сан-Франциско, Лос-Анджелес, Сан-Диего",
+      "value":"America/Los_Angeles"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Саскатун, Реджайна, Принс-Альберт",
+      "value":"America/Swift_Current"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Денвер, Альбукерке, Колорадо-Спрингс",
+      "value":"America/Denver"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Йеллоунайф, Хей-Ривер, Инувик",
+      "value":"America/Yellowknife"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Манагуа, Матагальпа, Леон",
+      "value":"America/Managua"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Сьюдад-Хуарес, Чиуауа, Кульякан",
+      "value":"America/Chihuahua"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Сан-Хосе, Картаго, Лимон",
+      "value":"America/Costa_Rica"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Пуэрто Айора, Пуэрто-Бакерисо-Морено, Бальтра",
+      "value":"Pacific/Galapagos"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Ханга-Роа",
+      "value":"Pacific/Easter"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Сан-Педро-Сула, Тегусигальпа, Ла-Сейба",
+      "value":"America/Tegucigalpa"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Калгари, Эдмонтон, Ред Дир",
+      "value":"America/Edmonton"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Белиз, Сан-Игнасио, Бельмопан",
+      "value":"America/Belize"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Бойсе, Меридиан, Айдахо-Фолс",
+      "value":"America/Boise"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Гватемала, Сан-Сальвадор, Кесальтенанго",
+      "value":"America/Guatemala"
+   },
+   {
+      "offset":"-06:00",
+      "text":"(UTC-06:00) Мус-Джо, Свифт-Керрент, Йорктон",
+      "value":"America/Regina"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Джорджтаун, Кайман-Брак",
+      "value":"America/Cayman"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Богота, Медельин, Кали",
+      "value":"America/Bogota"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Эвансвилл, Мичиган Сити, Вальпараисо",
+      "value":"America/Indiana/Knox"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Риу-Бранку, Табатинга",
+      "value":"America/Rio_Branco"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Чикаго, Эль-Пасо, Нашвилл",
+      "value":"America/Chicago"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Гуаякиль, Кито, Куэнка",
+      "value":"America/Guayaquil"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Кенора, Драйден, Ред-Лейк",
+      "value":"America/Atikokan"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Виннипег, Брандон, Томпсон",
+      "value":"America/Winnipeg"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Канкун, Четумаль, Плайя-дель-Кармен",
+      "value":"America/Cancun"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Мемфис, Джексон, Кливленд",
+      "value":"America/Menominee"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Лима, Панама, Трухильо",
+      "value":"America/Lima"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Мехико, Гвадалахара, Леон",
+      "value":"America/Mexico_City"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Монтеррей",
+      "value":"America/Monterrey"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Хьюстон, Сан-Антонио, Даллас",
+      "value":"America/North_Dakota/Center"
+   },
+   {
+      "offset":"-05:00",
+      "text":"(UTC-05:00) Кингстон, Монтего-Бей, Мей Пен",
+      "value":"America/Jamaica"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Манаус, Боа-Виста, Паринтинс",
+      "value":"America/Manaus"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Санта-Крус-де-ла-Сьерра, Эль-Альто, Кочабамба",
+      "value":"America/La_Paz"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Сент-Джорджес",
+      "value":"America/Grenada"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Асунсьон, Сьюдад-дель-Эсте, Энкарнасьон",
+      "value":"America/Asuncion"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Нассау, Фрипорт, Джордж Таун",
+      "value":"America/Nassau"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Икалуит",
+      "value":"America/Iqaluit"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Индианаполис, Кармел, Кокомо",
+      "value":"America/Indiana/Marengo"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Виллемстад, Филипсбург, Гран-Каз",
+      "value":"America/Curacao"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Кингстаун",
+      "value":"America/St_Vincent"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Нью-Йорк, Цицеро, Филадельфия",
+      "value":"America/New_York"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Коберн-Таун",
+      "value":"America/Grand_Turk"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Сан-Хуан, Каролина, Понсе",
+      "value":"America/Puerto_Rico"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Саут-Бенд, Блумингтон, Мунчи",
+      "value":"America/Indianapolis"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Тандер-Бей",
+      "value":"America/Thunder_Bay"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Сент-Джонс",
+      "value":"America/Antigua"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Квебек, Монреаль, Лаваль",
+      "value":"America/Montreal"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Санто-Доминго, Сантьяго-де-лос-Кабальерос, Санто-Доминго-Есте",
+      "value":"America/Santo_Domingo"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Бастер",
+      "value":"America/St_Kitts"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Валли",
+      "value":"America/Anguilla"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Порт-о-Пренс, Гонаив, Кап-Аитьен",
+      "value":"America/Port-au-Prince"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Кралендейк",
+      "value":"America/Kralendijk"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Кампу-Гранди, Дорадус, Корумба",
+      "value":"America/Campo_Grande"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Сантьяго, Антофагаста, Винья-дель-Мар",
+      "value":"America/Santiago"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Порту-Велью, Жи-Парана, Вильена",
+      "value":"America/Porto_Velho"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Густавия",
+      "value":"America/St_Barthelemy"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Джорджтаун, Нью-Амстердам",
+      "value":"America/Guyana"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Каракас, Валенсия, Маракай",
+      "value":"America/Caracas"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Порт-оф-Спейн",
+      "value":"America/Port_of_Spain"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Плимут",
+      "value":"America/Montserrat"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Род-Таун, Кристианстед",
+      "value":"America/Tortola"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Форт-Уэйн, Терр Хот",
+      "value":"America/Indiana/Vevay"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Колумбус, Луисвилл, Лексингтон",
+      "value":"America/Louisville"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Бриджтаун",
+      "value":"America/Barbados"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Ле-Гозье, Пуант-а-Питр, Сент-Франсуа",
+      "value":"America/Guadeloupe"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Куяба, Варзеа-Гранди, Рондонополис",
+      "value":"America/Cuiaba"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Фор-де-Франс, Кастри, Грос Ислет",
+      "value":"America/Dominica"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Шарлотта-Амалия",
+      "value":"America/St_Thomas"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Атланта",
+      "value":"America/Kentucky/Monticello"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Гавана, Тринидад, Сантьяго-де-Куба",
+      "value":"America/Havana"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Ораньестад, Ноорд, Пальм Бич",
+      "value":"America/Aruba"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Детройт, Гранд-Рапидс, Уоррен",
+      "value":"America/Detroit"
+   },
+   {
+      "offset":"-04:00",
+      "text":"(UTC-04:00) Торонто, Оттава, Миссиссага",
+      "value":"America/Toronto"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Хеппи-Валли-Гуз-Бэй, Вабуш, Нейн",
+      "value":"America/Goose_Bay"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Сент-Джордж, Гамильтон",
+      "value":"Atlantic/Bermuda"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Салвадор, Масейо, Натал",
+      "value":"America/Maceio"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Галифакс, Сент-Джон, Дартмут",
+      "value":"America/Halifax"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Форталеза, Аракажу, Каукая",
+      "value":"America/Fortaleza"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Парамарибо, Кайенна",
+      "value":"America/Cayenne"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Ресифи, Терезина, Жабоатан-дус-Гуарарапес",
+      "value":"America/Recife"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Сан-Паулу, Рио-де-Жанейро, Бразилиа",
+      "value":"America/Sao_Paulo"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Сан-Луис, Жуан-Песоа, Кампина-Гранди",
+      "value":"America/Santarem"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Белен, Ананиндеуа, Сантарен",
+      "value":"America/Belem"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Монтевидео, Сальто, Пайсанду",
+      "value":"America/Montevideo"
+   },
+   {
+      "offset":"-03:00",
+      "text":"(UTC-03:00) Буэнос-Айрес, Кордова, Росарио",
+      "value":"America/Argentina/Buenos_Aires"
+   },
+   {
+      "offset":"-02:30",
+      "text":"(UTC-02:30) Сент-Джонс, Корнер-Брук, Гандер",
+      "value":"America/St_Johns"
+   },
+   {
+      "offset":"-02:00",
+      "text":"(UTC-02:00) Нуук, Какорток, Маниитсок",
+      "value":"America/Godthab"
+   },
+   {
+      "offset":"-02:00",
+      "text":"(UTC-02:00) Фернанду-ди-Норонья",
+      "value":"America/Noronha"
+   },
+   {
+      "offset":"-01:00",
+      "text":"(UTC-01:00) Прая, Сан-Филип, Минделу",
+      "value":"Atlantic/Cape_Verde"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Бамако, Уагадугу, Бобо-Диуласо",
+      "value":"Africa/Bamako"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Монровия",
+      "value":"Africa/Monrovia"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Дакар, Мбур, Сен-Луи",
+      "value":"Africa/Dakar"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Аккра, Кумаси, Тамале",
+      "value":"Africa/Accra"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Фритаун, Бо, Макени",
+      "value":"Africa/Freetown"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Нуакшот, Нуадибу, Росо",
+      "value":"Africa/Nouakchott"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Мамуджу, Атафу, Факаофо",
+      "value":""
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Конакри, Канкан, Лабе",
+      "value":"Africa/Conakry"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Вестманнаэйяр",
+      "value":"Atlantic/Reykjavik"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Сан-Томе",
+      "value":"Africa/Sao_Tome"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Орта",
+      "value":"Atlantic/Azores"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Бисау, Сан-Домингус, Бафата",
+      "value":"Africa/Bissau"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Банжул, Фарафенни",
+      "value":"Africa/Banjul"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Абиджан, Буаке, Сан-Педро",
+      "value":"Africa/Abidjan"
+   },
+   {
+      "offset":"+00:00",
+      "text":"(UTC+00:00) Ломе, Кара, Кпалиме",
+      "value":"Africa/Lome"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Банги, Бамбари, Нола",
+      "value":"Africa/Bangui"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Котону, Джугу, Порто-Ново",
+      "value":"Africa/Porto-Novo"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Ниамей, Зиндер, Тахуа",
+      "value":"Africa/Niamey"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Вила-Нова-ди-Гая, Матозиньюш, Уэйраш",
+      "value":"Europe/Lisbon"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Киншаса, Луанда, Мбужи-Майи",
+      "value":"Africa/Kinshasa"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Дублин, Свордс, Дроэда",
+      "value":"Europe/Dublin"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Эль-Аюн, Бир-Лелу",
+      "value":"Africa/El_Aaiun"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Тунис, Сфакс, Бизерта",
+      "value":"Africa/Tunis"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Киркьюбур",
+      "value":"Atlantic/Faeroe"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Алжир, Оран, Константина",
+      "value":"Africa/Algiers"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Либревиль, Порт-Жантиль, Гамба",
+      "value":"Africa/Libreville"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Лас-Пальмас-де-Гран-Канария, Санта-Крус-де-Тенерифе, Арона",
+      "value":"Atlantic/Canary"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Нджамена, Абеше, Файя-Ларжо",
+      "value":"Africa/Ndjamena"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Лондон, Бирмингем, Лидс",
+      "value":"Europe/London"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Браззавиль, Пуэнт-Нуар, Долизи",
+      "value":"Africa/Brazzaville"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Бата, Малабо",
+      "value":"Africa/Malabo"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Дуала, Яунде, Баменда",
+      "value":"Africa/Douala"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Лагос, Кано, Ибадан",
+      "value":"Africa/Lagos"
+   },
+   {
+      "offset":"+01:00",
+      "text":"(UTC+01:00) Касабланка, Фес, Рабат",
+      "value":"Africa/Casablanca"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Рим, Милан, Неаполь",
+      "value":"Europe/Rome"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Сан-Марино",
+      "value":"Europe/San_Marino"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Сараево",
+      "value":"Europe/Sarajevo"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Варшава, Лодзь, Краков",
+      "value":"Europe/Warsaw"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Будапешт, Шопрон, Хайдусобосло",
+      "value":"Europe/Budapest"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Дикирх, Гревенмахер, Клерво",
+      "value":"Europe/Luxembourg"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Шарлеруа, Алст, Кортрейк",
+      "value":"Europe/Brussels"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Мадрид, Барселона, Валенсия",
+      "value":"Europe/Madrid"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Вадуц",
+      "value":"Europe/Vaduz"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Мапуту, Нампула, Бейра",
+      "value":"Africa/Maputo"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Берлин, Гамбург, Мюнхен",
+      "value":"Europe/Berlin"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Йоханнесбург, Кейптаун, Претория",
+      "value":"Africa/Johannesburg"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Кигали",
+      "value":"Africa/Kigali"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Каир, Александрия, Гиза",
+      "value":"Africa/Cairo"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Зеница, Мостар, Тузла",
+      "value":"Europe/Skopje"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Гибралтар",
+      "value":"Europe/Gibraltar"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Прага, Йиглава, Байё",
+      "value":"Europe/Prague"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Париж, Марсель, Лион",
+      "value":"Europe/Paris"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Белград, Лесковац, Биела",
+      "value":"Europe/Belgrade"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Ватикан",
+      "value":"Europe/Vatican"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Бужумбура",
+      "value":"Africa/Bujumbura"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Саннес, Олесунн, Стрюн",
+      "value":"Europe/Oslo"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Триполи, Бенгази, Аль-Байда",
+      "value":"Africa/Tripoli"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Сант-Жулиа-де-Лория, Энкам",
+      "value":"Europe/Andorra"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Сент-Полс-Бэй, Меллиеха, Валлетта",
+      "value":"Europe/Malta"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Риека, Винковцы, Пореч",
+      "value":"Europe/Zagreb"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Тилбург, Неймеген, Бреда",
+      "value":"Europe/Amsterdam"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Виндхук, Уолфиш-Бей, Рунду",
+      "value":"Africa/Windhoek"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Омдурман, Хартум, Ньяла",
+      "value":"Africa/Khartoum"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Масеру",
+      "value":"Africa/Maseru"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Мбабане, Манзини",
+      "value":"Africa/Mbabane"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Эсбьерг, Раннерс, Кольдинг",
+      "value":"Europe/Copenhagen"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Липтовски-Микулаш, Братислава",
+      "value":"Europe/Bratislava"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Марибор, Крань, Целе",
+      "value":"Europe/Ljubljana"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Саранда, Химара, Тирана",
+      "value":"Europe/Tirane"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Булавайо, Хараре, Гверу",
+      "value":"Africa/Harare"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Габороне, Франсистаун, Молепололе",
+      "value":"Africa/Gaborone"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Винтертур, Тун, Кройцлинген",
+      "value":"Europe/Zurich"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Калининград, Советск, Черняховск",
+      "value":"Europe/Kaliningrad"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Лунд, Бурос, Хельсингборг",
+      "value":"Europe/Stockholm"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Вена, Вельс, Винер-Нойштадт",
+      "value":"Europe/Vienna"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Лусака, Лилонгве, Блантайр",
+      "value":"Africa/Lusaka"
+   },
+   {
+      "offset":"+02:00",
+      "text":"(UTC+02:00) Монако",
+      "value":"Europe/Monaco"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Ришон-ле-Цион, Холон, Рамла",
+      "value":"Asia/Jerusalem"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Багдад, Басра, Мосул",
+      "value":"Asia/Baghdad"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Киев, Харьков, Днепр",
+      "value":"Europe/Kiev"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Эспоо, Вантаа, Хамина",
+      "value":"Europe/Helsinki"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Джибути",
+      "value":"Africa/Djibouti"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Рамалла",
+      "value":"Asia/Gaza"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Кампала, Джинджа, Энтеббе",
+      "value":"Africa/Kampala"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Бухарест, Дорохой, Отопени",
+      "value":"Europe/Bucharest"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Бейрут, Эн-Набатия, Захле",
+      "value":"Asia/Beirut"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Таллин, Тарту, Нарва",
+      "value":"Europe/Tallinn"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Морони",
+      "value":"Indian/Comoro"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Вильнюс, Каунас, Клайпеда",
+      "value":"Europe/Vilnius"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Стамбул, Анкара, Измир",
+      "value":"Europe/Istanbul"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Рига, Даугавпилс, Лиепая",
+      "value":"Europe/Riga"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Найроби, Момбаса, Кисуму",
+      "value":"Africa/Nairobi"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) София, Варна, Тырговиште",
+      "value":"Europe/Sofia"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Эр-Рияд, Джидда, Мекка",
+      "value":"Asia/Riyadh"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Москва, Санкт-Петербург, Нижний Новгород",
+      "value":"Europe/Moscow"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Могадишо, Харгейса, Бербера",
+      "value":"Africa/Mogadishu"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Амман, Маан, Акаба",
+      "value":"Asia/Amman"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Дар-эс-Салам, Мванза, Аруша",
+      "value":"Africa/Dar_es_Salaam"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Эль-Кувейт",
+      "value":"Asia/Kuwait"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Антананариву, Туамасина, Анцирабе",
+      "value":"Indian/Antananarivo"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Асмэра, Массауа",
+      "value":"Africa/Asmera"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Афины, Пирей, Волос",
+      "value":"Europe/Athens"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Минск, Гомель, Витебск",
+      "value":"Europe/Minsk"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Сана, Эль-Бейда, Амран",
+      "value":"Asia/Aden"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Аддис-Абеба, Дыре-Дауа, Гондэр",
+      "value":"Africa/Addis_Ababa"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Паралимни, Лапитос, Пейя",
+      "value":"Asia/Nicosia"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Алеппо, Дамаск, Эль-Хасака",
+      "value":"Asia/Damascus"
+   },
+   {
+      "offset":"+03:00",
+      "text":"(UTC+03:00) Доха",
+      "value":"Asia/Bahrain"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Эс-Сиб, Хайма, Маскат",
+      "value":"Asia/Muscat"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Дубай, Абу-Даби",
+      "value":"Asia/Dubai"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Ульяновск, Димитровград, Инза",
+      "value":"Europe/Ulyanovsk"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Порт-Луи, Вакоа-Феникс, Виктория",
+      "value":"Indian/Mauritius"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Баку, Сумгаит, Гянджа",
+      "value":"Asia/Baku"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Астрахань, Ахтубинск, Знаменск",
+      "value":"Europe/Astrakhan"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Саратов, Энгельс, Балаково",
+      "value":"Europe/Saratov"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Волгоград, Волжский, Камышин",
+      "value":"Europe/Volgograd"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Самара, Тольятти, Ижевск",
+      "value":"Europe/Samara"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Сен-Дени, Сен-Пьер, Силао",
+      "value":"Indian/Reunion"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Тбилиси, Зугдиди, Озургети",
+      "value":"Asia/Tbilisi"
+   },
+   {
+      "offset":"+04:00",
+      "text":"(UTC+04:00) Ереван, Гюмри, Ванадзор",
+      "value":"Asia/Yerevan"
+   },
+   {
+      "offset":"+04:30",
+      "text":"(UTC+04:30) Кабул, Кандагар, Герат",
+      "value":"Asia/Kabul"
+   },
+   {
+      "offset":"+04:30",
+      "text":"(UTC+04:30) Тегеран, Мешхед, Исфахан",
+      "value":"Asia/Tehran"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Душанбе, Худжанд, Куляб",
+      "value":"Asia/Dushanbe"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Адду, Фувахмулах, Кулудуффуши",
+      "value":"Indian/Maldives"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Актау",
+      "value":"Asia/Aqtau"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Карачи, Лахор, Фейсалабад",
+      "value":"Asia/Karachi"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Актобе, Уральск, Атырау",
+      "value":"Asia/Aqtobe"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Кызылорда, Байконур, Аральск",
+      "value":"Asia/Qyzylorda"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Екатеринбург, Челябинск, Уфа",
+      "value":"Asia/Yekaterinburg"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Ашхабад, Туркменабад, Дашогуз",
+      "value":"Asia/Ashgabat"
+   },
+   {
+      "offset":"+05:00",
+      "text":"(UTC+05:00) Ташкент, Наманган, Андижан",
+      "value":"Asia/Tashkent"
+   },
+   {
+      "offset":"+05:30",
+      "text":"(UTC+05:30) Мумбаи, Дели, Бангалор",
+      "value":"Asia/Kolkata"
+   },
+   {
+      "offset":"+05:30",
+      "text":"(UTC+05:30) Полоннарува, Дехивала-Маунт-Лавиния, Негомбо",
+      "value":"Asia/Colombo"
+   },
+   {
+      "offset":"+05:45",
+      "text":"(UTC+05:45) Покхара, Бхаратпур, Биргандж",
+      "value":"Asia/Kathmandu"
+   },
+   {
+      "offset":"+06:00",
+      "text":"(UTC+06:00) Алматы, Нур-Султан (Астана), Шымкент",
+      "value":"Asia/Almaty"
+   },
+   {
+      "offset":"+06:00",
+      "text":"(UTC+06:00) Бишкек, Ош, Джалал-Абад",
+      "value":"Asia/Bishkek"
+   },
+   {
+      "offset":"+06:00",
+      "text":"(UTC+06:00) Омск, Тара, Исилькуль",
+      "value":"Asia/Omsk"
+   },
+   {
+      "offset":"+06:00",
+      "text":"(UTC+06:00) Тхимпху",
+      "value":"Asia/Thimphu"
+   },
+   {
+      "offset":"+06:00",
+      "text":"(UTC+06:00) Дакка, Читтагонг, Нараянгандж",
+      "value":"Asia/Dhaka"
+   },
+   {
+      "offset":"+06:30",
+      "text":"(UTC+06:30) Уэст-Айленд",
+      "value":"Indian/Cocos"
+   },
+   {
+      "offset":"+06:30",
+      "text":"(UTC+06:30) Янгон, Мандалай, Патейн",
+      "value":"Asia/Rangoon"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Красноярск, Абакан, Норильск",
+      "value":"Asia/Krasnoyarsk"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Кемерово, Новокузнецк, Прокопьевск",
+      "value":"Asia/Novokuznetsk"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Хошимин, Ханой, Чавинь",
+      "value":"Asia/Vientiane"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Новосибирск, Бердск, Искитим",
+      "value":"Asia/Novosibirsk"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Томск, Северск, Стрежевой",
+      "value":"Asia/Tomsk"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Бангкок, Самутпракан, Самутсонгкхрам",
+      "value":"Asia/Bangkok"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Джакарта, Сурабая, Бандунг",
+      "value":"Asia/Jakarta"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Пномпень, Баттамбанг, Сиануквиль",
+      "value":"Asia/Phnom_Penh"
+   },
+   {
+      "offset":"+07:00",
+      "text":"(UTC+07:00) Барнаул, Бийск, Рубцовск",
+      "value":"Asia/Barnaul"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Сингапур",
+      "value":"Asia/Singapore"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Макасар, Сукавати, Танджунгселор",
+      "value":"Asia/Makassar"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Иркутск, Улан-Удэ, Братск",
+      "value":"Asia/Irkutsk"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Чунцин, Шанхай, Пекин",
+      "value":"Asia/Shanghai"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Кесон-Сити, Давао, Манила",
+      "value":"Asia/Manila"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Куала-Лумпур, Ипох, Шах-Алам",
+      "value":"Asia/Kuala_Lumpur"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Перт, Рокингем, Банбери",
+      "value":"Australia/Perth"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Улан-Батор, Сайншанд, Арвайхээр",
+      "value":"Asia/Ulaanbaatar"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Харбин",
+      "value":"Asia/Harbin"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Макао (Аомынь)",
+      "value":"Asia/Macau"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Бандар-Сери-Бегаван",
+      "value":"Asia/Brunei"
+   },
+   {
+      "offset":"+08:00",
+      "text":"(UTC+08:00) Нанкин",
+      "value":"Asia/Taipei"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Якутск, Благовещенск, Белогорск",
+      "value":"Asia/Yakutsk"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Корор, Нгерулмуд",
+      "value":"Pacific/Palau"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Сеул, Пусан, Инчхон",
+      "value":"Asia/Seoul"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Чита, Краснокаменск, Борзя",
+      "value":"Asia/Chita"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Дили",
+      "value":"Asia/Dili"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Токио, Йокогама, Осака",
+      "value":"Asia/Tokyo"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Пхеньян, Чхонджин",
+      "value":"Asia/Pyongyang"
+   },
+   {
+      "offset":"+09:00",
+      "text":"(UTC+09:00) Мерауке",
+      "value":"Asia/Jayapura"
+   },
+   {
+      "offset":"+09:30",
+      "text":"(UTC+09:30) Аделаида, Маунт-Гамбир, Уайалла",
+      "value":"Australia/Adelaide"
+   },
+   {
+      "offset":"+09:30",
+      "text":"(UTC+09:30) Брокен Хилл",
+      "value":"Australia/Broken_Hill"
+   },
+   {
+      "offset":"+09:30",
+      "text":"(UTC+09:30) Дарвин, Алис-Спрингс, Кэтрин",
+      "value":"Australia/Darwin"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Сидней, Канберра, Вуллонгонг",
+      "value":"Australia/Sydney"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Хабаровск, Владивосток, Комсомольск-на-Амуре",
+      "value":"Asia/Vladivostok"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Брисбен, Голд-Кост, Саншайн-Кост",
+      "value":"Australia/Brisbane"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Мельбурн, Джелонг, Балларат",
+      "value":"Australia/Melbourne"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Вено, Колониа, Паликир",
+      "value":"Pacific/Yap"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Порт-Морсби, Лаэ, Маунт-Хаген",
+      "value":"Pacific/Port_Moresby"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Хагатна",
+      "value":"Pacific/Guam"
+   },
+   {
+      "offset":"+10:00",
+      "text":"(UTC+10:00) Хобарт, Лонсестон, Девонпорт",
+      "value":"Australia/Hobart"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Среднеколымск, Северо-Курильск",
+      "value":"Asia/Srednekolymsk"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Хониара, Порт-Вила, Сола",
+      "value":"Pacific/Efate"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Южно-Сахалинск, Корсаков, Холмск",
+      "value":"Asia/Sakhalin"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Кингстон",
+      "value":"Pacific/Norfolk"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Нумеа, Кумак, Ве",
+      "value":"Pacific/Noumea"
+   },
+   {
+      "offset":"+11:00",
+      "text":"(UTC+11:00) Магадан, Сусуман",
+      "value":"Asia/Magadan"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Окленд, Веллингтон, Крайстчерч",
+      "value":"Pacific/Auckland"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Фунафути",
+      "value":"Pacific/Funafuti"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Южная Тарава, Байрики",
+      "value":"Pacific/Tarawa"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Маджуро",
+      "value":"Pacific/Majuro"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Петропавловск-Камчатский, Елизово, Вилючинск",
+      "value":"Asia/Kamchatka"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Сува, Нанди, Лабаса",
+      "value":"Pacific/Fiji"
+   },
+   {
+      "offset":"+12:00",
+      "text":"(UTC+12:00) Ярен",
+      "value":"Pacific/Nauru"
+   },
+   {
+      "offset":"+13:00",
+      "text":"(UTC+13:00) Апиа",
+      "value":"Pacific/Apia"
+   },
+   {
+      "offset":"+13:00",
+      "text":"(UTC+13:00) Нукуалофа, Нейафу, Пангаи",
+      "value":"Pacific/Tongatapu"
+   }
+]
